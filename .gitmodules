@@ -1,0 +1,6 @@
+[submodule "bb-runtimes"]
+	path = bb-runtimes
+	url = https://github.com/eugmes/bb-runtimes.git
+[submodule "Ada_Drivers_Library"]
+	path = Ada_Drivers_Library
+	url = https://github.com/eugmes/Ada_Drivers_Library.git
